@@ -1,4 +1,4 @@
-# iOSDC2020-Talk-Sample
+# iOSDC2020-Talk
 
 ## 概要
 
